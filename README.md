@@ -1,6 +1,7 @@
 # Bojos per la supercomputació 2019: computació quàntica
 
 Programes per les sessions de Bojos per la Supercomputació 2019
+
 Sessió 27/04/2019 : [Introducció a la computació quàntica](https://github.com/arturgs/bojos_supercomputacio_2019/blob/master/introduccio_quantum_computing.ipynb)
 
 Sessió 04/05/2019 : [Protocol de criptografia RSA](https://github.com/arturgs/bojos_supercomputacio_2019/blob/master/RSA.ipynb)
